@@ -32,6 +32,7 @@
           "humidity_sensor": "Fuktighetssensor",
           "poll": "Aktivera polling",
           "scan_interval": "Poll intervall (sekunder)",
+          "custom_icons": "Använd anpassat ikonpaket",
           "enabled_sensors": "Aktivera sensorer"
         }
       }
